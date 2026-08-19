@@ -21,12 +21,12 @@ I am also broadly interested in mean-field game theory and optimal control probl
 
 ### 📚 Selected Publications
 
-* **State-Informed Simulated Tempering**
-  * *Queniat, H., Roberts, G. O., & Tawn, N. G. (2026).* Manuscript in preparation.
+* **Simulated Tempring: Efficiency Ceilings**
+  * ***Queniat, H.**, Roberts, G. O., & Tawn, N. G. (2026).* Manuscript in preparation.
   * 🔒 *Codebase:* The accompanying framework will be made public in my `simulated-tempering-jax` repository upon release of the preprint.
 
 * **Annealed Leap-Point Sampler for Multimodal Target Distributions**
-  * *Tawn, N. G., Moores, M. T., Queniat, H., & Roberts, G. O. (2026).* 
+  * *Tawn, N. G., Moores, M. T., **Queniat, H.**, & Roberts, G. O. (2026).* 
   * *arXiv preprint arXiv:2112.12908*. To appear in *Statistics and Computing*.
   * 🔒 *Codebase:* The accompanying R-package will be made public in my `R-ALPS` repository upon final publication.
 
